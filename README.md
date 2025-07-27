@@ -21,6 +21,6 @@ Dataset : [NASA CMAPS Data Set on Kaggle](url)
 
 Performance & Results
 
-The final model achieved an overall accuracy of 98.2% on the unseen test set. The confusion matrix below shows that the model is highly effective at identifying imminent failures (True Positives) while maintaining a low rate of false alarms.
+The final model achieved an overall accuracy of 96.1% on the unseen test set. The confusion matrix below shows that the model is highly effective at identifying imminent failures (True Positives) while maintaining a low rate of false alarms.
 
 This demonstrates the model's potential as a reliable tool for a predictive maintenance strategy.
